@@ -6,7 +6,7 @@ Install CDH in docker
 	版本：jdk-8u101-linux-x64.rpm
 	下载地址：oracle官网
 * mysql
-	rpm包：http://dev.mysql.com/get/Downloads/MySQL-5.6/	MySQL-5.6.26-1.linux_glibc2.5.x86_64.rpm-bundle.tar
+	rpm包：http://dev.mysql.com/get/Downloads/MySQL-5.6/MySQL-5.6.26-1.linux_glibc2.5.x86_64.rpm-bundle.tar
 	jdbc连接包mysql-connector-java.jar:
 	http://dev.mysql.com/downloads/connector/j/
 * CDH安装相关的包
