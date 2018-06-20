@@ -7,8 +7,7 @@ Install CDH in docker
 	下载地址：oracle官网
 * mysql
 	rpm包：http://dev.mysql.com/get/Downloads/MySQL-5.6/MySQL-5.6.26-1.linux_glibc2.5.x86_64.rpm-bundle.tar
-	jdbc连接包mysql-connector-java.jar:
-	http://dev.mysql.com/downloads/connector/j/
+	jdbc连接包mysql-connector-java.jar: http://dev.mysql.com/downloads/connector/j/
 * CDH安装相关的包
 	cloudera manager包 ：5.8.2 cloudera-manager-centos7-cm5.8.2_x86_64.tar.gz
 	下载地址：http://archive.cloudera.com/cm5/cm/5/cloudera-manager-el6-cm5.8.2_x86_64.tar.gz
